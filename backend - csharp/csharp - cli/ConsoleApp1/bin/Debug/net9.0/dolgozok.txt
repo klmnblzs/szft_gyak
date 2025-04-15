@@ -1,0 +1,31 @@
+Azonosito;Keresztnev;Vezeteknev;SzuletesiDatum;Szint;Munkakor;HaviFizetes
+JD123;John;Doe;1986-12-05;Senior;Frontend fejlesztő;795500
+MM234;Mary;Miller;1990-09-15;Junior;Backend fejlesztő;420000
+AK567;Adam;Kovacs;1982-07-28;Medior;Rendszergazda;650000
+SB789;Sarah;Bauer;1989-03-10;Medior;Projektmenedzser;900000
+KP345;Kevin;Parker;1993-01-20;Junior;UI/UX tervező;550000
+EM678;Emily;Mitchell;1995-08-08;Medior;Adatbázis szakértő;700000
+CM432;Chris;Moore;1987-11-25;Senior;Rendszerarchitekt;850000
+AS901;Anna;Sullivan;1991-04-14;Junior;Frontend fejlesztő;450000
+MD567;Michael;Davis;1984-06-18;Senior;Backend fejlesztő;780000
+JL234;Julia;Lee;1992-02-28;Medior;Adat elemző;600000
+RP678;Robert;Peterson;1988-09-03;Junior;Tesztelő;480000
+KG321;Karen;Garcia;1985-07-12;Senior;Szoftvermérnök;820000
+TH789;Thomas;Harris;1990-12-23;Junior;Rendszergazda;400000
+LM345;Laura;Morris;1994-10-17;Medior;Termékmenedzser;750000
+JS123;Jessica;Smith;1983-03-08;Senior;UI/UX tervező;700000
+DW678;David;Williams;1996-05-30;Junior;Adatbázis szakértő;520000
+MG432;Megan;Green;1986-08-14;Medior;Rendszerintegrátor;620000
+MS901;Matthew;Scott;1992-07-01;Junior;Szoftvermérnök;480000
+AR567;Alex;Robinson;1989-11-13;Senior;Tesztelő;760000
+SG234;Sophia;Gray;1991-09-25;Junior;Adat analitikus;580000
+PK678;Peter;Kelly;1987-05-07;Senior;Termékmenedzser;820000
+KM321;Kelly;Martinez;1993-03-16;Junior;Rendszerintegrátor;500000
+MM789;Mark;Mitchell;1984-12-01;Senior;Adat elemző;780000
+EL345;Emma;Lee;1990-10-13;Medior;Szoftvermérnök;650000
+BN678;Benjamin;Nelson;1995-06-26;Medior;UI/UX tervező;450000
+AG432;Alexa;Gonzalez;1988-04-07;Medior;Rendszerarchitekt;700000
+TR901;Thomas;Reed;1992-02-19;Junior;Szoftvermérnök;480000
+LS567;Liam;Smith;1986-08-07;Senior;UI/UX tervező;760000
+HB234;Hannah;Brown;1990-07-24;Junior;Adat elemző;600000
+GR678;Gabriel;Roberts;1994-05-06;Junior;Rendszerarchitekt;520000
