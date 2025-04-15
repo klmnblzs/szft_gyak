@@ -1,0 +1,16 @@
+H:\13\C-Sharp\berkalkulator\berkalkulator\bin\Debug\net8.0-windows\berkalkulator.exe
+H:\13\C-Sharp\berkalkulator\berkalkulator\bin\Debug\net8.0-windows\berkalkulator.deps.json
+H:\13\C-Sharp\berkalkulator\berkalkulator\bin\Debug\net8.0-windows\berkalkulator.runtimeconfig.json
+H:\13\C-Sharp\berkalkulator\berkalkulator\bin\Debug\net8.0-windows\berkalkulator.dll
+H:\13\C-Sharp\berkalkulator\berkalkulator\bin\Debug\net8.0-windows\berkalkulator.pdb
+H:\13\C-Sharp\berkalkulator\berkalkulator\obj\Debug\net8.0-windows\berkalkulator.Form1.resources
+H:\13\C-Sharp\berkalkulator\berkalkulator\obj\Debug\net8.0-windows\berkalkulator.csproj.GenerateResource.cache
+H:\13\C-Sharp\berkalkulator\berkalkulator\obj\Debug\net8.0-windows\berkalkulator.GeneratedMSBuildEditorConfig.editorconfig
+H:\13\C-Sharp\berkalkulator\berkalkulator\obj\Debug\net8.0-windows\berkalkulator.AssemblyInfoInputs.cache
+H:\13\C-Sharp\berkalkulator\berkalkulator\obj\Debug\net8.0-windows\berkalkulator.AssemblyInfo.cs
+H:\13\C-Sharp\berkalkulator\berkalkulator\obj\Debug\net8.0-windows\berkalkulator.csproj.CoreCompileInputs.cache
+H:\13\C-Sharp\berkalkulator\berkalkulator\obj\Debug\net8.0-windows\berkalkulator.dll
+H:\13\C-Sharp\berkalkulator\berkalkulator\obj\Debug\net8.0-windows\refint\berkalkulator.dll
+H:\13\C-Sharp\berkalkulator\berkalkulator\obj\Debug\net8.0-windows\berkalkulator.pdb
+H:\13\C-Sharp\berkalkulator\berkalkulator\obj\Debug\net8.0-windows\berkalkulator.genruntimeconfig.cache
+H:\13\C-Sharp\berkalkulator\berkalkulator\obj\Debug\net8.0-windows\ref\berkalkulator.dll

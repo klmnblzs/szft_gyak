@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "berkalkulator", "berkalkulator\berkalkulator.csproj", "{7EA706C5-CAD3-4F23-9BCC-8470AECA1591}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EA706C5-CAD3-4F23-9BCC-8470AECA1591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EA706C5-CAD3-4F23-9BCC-8470AECA1591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EA706C5-CAD3-4F23-9BCC-8470AECA1591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EA706C5-CAD3-4F23-9BCC-8470AECA1591}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55B634E1-1A23-48C7-8112-B2CD0B2A89BA}
+	EndGlobalSection
+EndGlobal
